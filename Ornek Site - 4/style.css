@@ -1,0 +1,23 @@
+.content {
+  display: inline-flex;
+  align-items: center;
+  vertical-align: middle;
+}
+
+.content img {
+  width: 50px;
+  margin-right: 0.6rem;
+}
+
+.fa-star, .fa-star-half-alt {
+  font-size: 13px;
+}
+
+.checked {
+  color: gold;
+}
+
+.btn-light:hover {
+  border-color: #c1c9d0;
+  color: #0d6efd;
+}
